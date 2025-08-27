@@ -6,9 +6,9 @@
       "period": "1950-1970s",
       "events": [
         {
-          "date": "1950",
+          "date": "Oct 1950",
           "title": "Turing Test Proposed",
-          "description": "Alan Turing proposes the Turing Test",
+          "description": "Alan Turing publishes 'Computing Machinery and Intelligence' in Mind journal, proposing the Imitation Game (Turing Test)",
           "links": [
             {
               "text": "Turing Test",
@@ -17,9 +17,9 @@
           ]
         },
         {
-          "date": "1956",
+          "date": "Jun-Aug 1956",
           "title": "Birth of AI",
-          "description": "The Dartmouth Conference coins 'artificial intelligence'",
+          "description": "Dartmouth Summer Research Project (June 18 - August 17, 1956) where John McCarthy coins term 'artificial intelligence'",
           "links": [
             {
               "text": "Dartmouth Conference",
@@ -28,9 +28,9 @@
           ]
         },
         {
-          "date": "1958",
-          "title": "First Perceptron",
-          "description": "Frank Rosenblatt builds the Mark I Perceptron",
+          "date": "Jul 1958",
+          "title": "Perceptron Demonstrated",
+          "description": "Frank Rosenblatt demonstrates Perceptron at Cornell Aeronautical Laboratory (July 7, 1958), Mark I hardware built 1960",
           "links": [
             {
               "text": "Perceptron",
@@ -39,9 +39,9 @@
           ]
         },
         {
-          "date": "1966",
-          "title": "ELIZA Created",
-          "description": "Joseph Weizenbaum creates ELIZA chatbot",
+          "date": "Jan 1966",
+          "title": "ELIZA Published",
+          "description": "Joseph Weizenbaum publishes ELIZA in Communications of the ACM (developed 1964-1966 at MIT)",
           "links": [
             {
               "text": "ELIZA",
@@ -722,14 +722,6 @@
           ]
         },
         {
-          "date": "Oct-Nov 2023",
-          "title": "AI Safety & OpenAI Crisis",
-          "details": [
-            "White House issues U.S. Executive Order on Safe AI",
-            "UK hosts AI Safety Summit; Bletchley Declaration signed",
-            "OpenAI DevDay announces GPT-4 Turbo & Custom GPTs platform",
-            "OpenAI CEO Sam Altman briefly fired, then reinstated after crisis"
-          ],
           "links": [
             {
               "text": "U.S. Executive Order on Safe AI",
@@ -751,11 +743,22 @@
         },
         {
           "date": "Dec 2023",
-          "title": "Gemini Launch",
+          "title": "EU AI Act Agreement & Gemini",
           "details": [
-            "Google DeepMind introduces Gemini models; Gemini Pro available via API"
+            "EU reaches historic agreement on AI Act after marathon negotiations",
+            "Mistral AI raises €385 million, becomes European AI champion",
+            "Google DeepMind introduces Gemini models",
+            "Gemini Pro available via API"
           ],
           "links": [
+            {
+              "text": "EU AI Act Agreement",
+              "url": "https://chatgpt.com/?q=EU%20AI%20Act%20agreement%20December%202023&hints=search&ref=ext"
+            },
+            {
+              "text": "Mistral AI funding",
+              "url": "https://chatgpt.com/?q=Mistral%20AI%20funding&hints=search&ref=ext"
+            },
             {
               "text": "Gemini",
               "url": "https://chatgpt.com/?q=Gemini%20AI&hints=search&ref=ext"
@@ -786,12 +789,18 @@
         },
         {
           "date": "Feb 2024",
-          "title": "Gemini 1.5 & Gemma",
+          "title": "Mistral AI Large & Gemini 1.5",
           "details": [
-            "Google releases Gemini 1.5 Pro (preview) with 1M token context",
+            "Mistral AI releases Mistral Large model in February 2024",
+            "Mistral partners with Microsoft Azure for cloud deployment",
+            "Google releases Gemini 1.5 Pro with 1M token context",
             "Google releases Gemma open models"
           ],
           "links": [
+            {
+              "text": "Mistral Large",
+              "url": "https://chatgpt.com/?q=Mistral%20Large&hints=search&ref=ext"
+            },
             {
               "text": "Gemini 1.5 Pro",
               "url": "https://chatgpt.com/?q=Gemini%201.5%20Pro&hints=search&ref=ext"
@@ -846,6 +855,22 @@
             {
               "text": "Gemini 1.5 Flash",
               "url": "https://chatgpt.com/?q=Gemini%201.5%20Flash&hints=search&ref=ext"
+            }
+          ]
+        },
+        {
+          "date": "May 2024",
+          "title": "EU AI Act Adopted",
+          "details": [
+            "European Council formally adopts AI Act on May 21, 2024",
+            "First comprehensive AI regulation globally",
+            "Sets requirements for high-risk AI systems",
+            "Bans certain AI practices like social scoring"
+          ],
+          "links": [
+            {
+              "text": "EU AI Act",
+              "url": "https://chatgpt.com/?q=EU%20AI%20Act%20signed&hints=search&ref=ext"
             }
           ]
         },
@@ -1090,30 +1115,42 @@
         },
         {
           "date": "Jul 2025",
-          "title": "Grok 4 & AI Infrastructure Race",
+          "title": "AI Infrastructure Race",
           "details": [
-            "xAI releases Grok 4 with advanced reasoning capabilities",
             "Meta commits $72 billion for AI infrastructure in 2025",
             "Alphabet allocates $85 billion for AI capital expenditures"
+          ]
+        },
+        {
+          "date": "Jul 2025",
+          "title": "European AI Office Launches",
+          "details": [
+            "EU AI Office becomes operational on August 2, 2025 with enforcement powers",
+            "Germany commits €5 billion total for AI promotion through 2025",
+            "Mistral AI raises €600 million at $6 billion valuation in June 2024",
+            "Mistral AI seeking $10 billion valuation in new funding round"
           ],
           "links": [
             {
-              "text": "Grok 4",
-              "url": "https://chatgpt.com/?q=Grok%204%20xAI&hints=search&ref=ext"
+              "text": "EU AI Office",
+              "url": "https://chatgpt.com/?q=EU%20AI%20Office&hints=search&ref=ext"
+            },
+            {
+              "text": "Mistral AI",
+              "url": "https://chatgpt.com/?q=Mistral%20AI&hints=search&ref=ext"
             }
           ]
         },
         {
           "date": "Aug 2025",
           "title": "GPT-5 Launch: The AI Race Intensifies",
-          "sectionTitle": "Historic Week of AI Releases",
           "details": [
-            "OpenAI releases GPT-5: first unified model with 1.8T parameters, 1M token context",
-            "GPT-5 achieves 94.6% on AIME 2025 math, 74.9% on SWE-bench coding tasks",
-            "Anthropic launches Claude Opus 4.1 with 200k context, scoring 74.5% on SWE-bench",
-            "OpenAI releases first open-source models since GPT-2: gpt-oss-120b and gpt-oss-20b",
-            "GPT-5 API priced aggressively at $1.25/1M input tokens, sparking price war",
-            "Enterprise AI adoption surges 8x for reasoning workloads"
+            "OpenAI releases GPT-5 on August 7, 2025 as a unified AI system",
+            "GPT-5 scores 94.6% on AIME 2025 math competition, 74.9% on SWE-bench Verified",
+            "Anthropic releases Claude Opus 4.1 on August 5, achieving 74.5% on SWE-bench Verified",
+            "GPT-5 available in three API variants: gpt-5, gpt-5-mini, and gpt-5-nano",
+            "Claude Opus 4.1 features 200k token context, 32k output tokens, 64k thinking tokens",
+            "Both models now available in Cursor IDE and GitHub Copilot for developers"
           ],
           "spacing": "large",
           "links": [
@@ -1138,7 +1175,7 @@
             "Google announces $9 billion AI data center investment in Oklahoma",
             "Anthropic offers Claude to US government for $1/year per agency",
             "Sam Altman warns about China's strategic AI advancements",
-            "Cursor shifts from Claude to GPT-5 for coding assistance"
+            "Cursor IDE supports both GPT-5 and Claude models with flexible switching"
           ],
           "links": [
             {
