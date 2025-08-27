@@ -50,9 +50,9 @@
           ]
         },
         {
-          "date": "1969",
-          "title": "Shakey Robot",
-          "description": "SRI demonstrates Shakey robot",
+          "date": "1966-1972",
+          "title": "Shakey Robot Development",
+          "description": "SRI develops Shakey robot (1966-1972), first mobile robot to reason about actions",
           "details": [
             "SRI demonstrates Shakey robot",
             "Minsky & Papert publish *Perceptrons*",
@@ -70,11 +70,13 @@
           ]
         },
         {
-          "date": "1972-1973",
-          "title": "First AI Winter",
+          "date": "1972-1974",
+          "title": "PROLOG & First AI Winter",
           "details": [
-            "PROLOG language developed (1972)",
-            "Lighthill Report (UK, 1973) leads to funding cuts; first AI winter"
+            "PROLOG developed by Alain Colmerauer and Philippe Roussel (1972)",
+            "Lighthill Report published in UK (1973) criticizes AI progress",
+            "UK cuts AI funding to all but 2 universities (1974)",
+            "First AI Winter begins (1974-1980)"
           ],
           "links": [
             {
@@ -147,9 +149,9 @@
           ]
         },
         {
-          "date": "1997",
-          "title": "Deep Blue Victory",
-          "description": "IBM's Deep Blue defeats Garry Kasparov",
+          "date": "May 3-11, 1997",
+          "title": "Deep Blue Defeats Kasparov",
+          "description": "IBM's Deep Blue defeats world champion Garry Kasparov 3.5-2.5 in New York",
           "links": [
             {
               "text": "Deep Blue",
