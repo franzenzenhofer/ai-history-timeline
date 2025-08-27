@@ -1,0 +1,34 @@
+{
+  "version": "2.1.0",
+  "lastUpdated": "2025-01-27",
+  "changes": [
+    {
+      "version": "2.1.0",
+      "date": "2025-01-27",
+      "updates": [
+        "Added January 2025 multimodal convergence events",
+        "Added May 2025 Claude 4 family and federal AI adoption",
+        "Updated Stargate Project details with $500B investment",
+        "Enhanced reasoning capabilities coverage across all platforms"
+      ]
+    },
+    {
+      "version": "2.0.0",
+      "date": "2025-01-27",
+      "updates": [
+        "Complete modular rewrite with TypeScript",
+        "Separated data from presentation logic",
+        "Added automatic update checking",
+        "Improved responsive design"
+      ]
+    },
+    {
+      "version": "1.0.0",
+      "date": "2025-01-26",
+      "updates": [
+        "Initial timeline release",
+        "Coverage from 1950 to 2025"
+      ]
+    }
+  ]
+}

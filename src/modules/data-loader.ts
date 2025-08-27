@@ -4,7 +4,7 @@ export class DataLoader {
   private dataCache: TimelineData | null = null;
   private dataUrl: string;
 
-  constructor(dataUrl: string = '/src/data/timeline.json') {
+  constructor(dataUrl: string = '/data/timeline.json') {
     this.dataUrl = dataUrl;
   }
 

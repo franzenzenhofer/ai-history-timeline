@@ -1,0 +1,1134 @@
+{
+  "eras": [
+    {
+      "id": "era-1950",
+      "name": "Early Foundations",
+      "period": "1950-1970s",
+      "events": [
+        {
+          "date": "1950",
+          "title": "Turing Test Proposed",
+          "description": "Alan Turing proposes the Turing Test",
+          "links": [
+            {
+              "text": "Turing Test",
+              "url": "https://chatgpt.com/?q=Turing%20Test&hints=search&ref=ext"
+            }
+          ]
+        },
+        {
+          "date": "1956",
+          "title": "Birth of AI",
+          "description": "The Dartmouth Conference coins 'artificial intelligence'",
+          "links": [
+            {
+              "text": "Dartmouth Conference",
+              "url": "https://chatgpt.com/?q=Dartmouth%20Conference&hints=search&ref=ext"
+            }
+          ]
+        },
+        {
+          "date": "1958",
+          "title": "First Perceptron",
+          "description": "Frank Rosenblatt builds the Mark I Perceptron",
+          "links": [
+            {
+              "text": "Perceptron",
+              "url": "https://chatgpt.com/?q=Perceptron&hints=search&ref=ext"
+            }
+          ]
+        },
+        {
+          "date": "1966",
+          "title": "ELIZA Created",
+          "description": "Joseph Weizenbaum creates ELIZA chatbot",
+          "links": [
+            {
+              "text": "ELIZA",
+              "url": "https://chatgpt.com/?q=ELIZA%20chatbot&hints=search&ref=ext"
+            }
+          ]
+        },
+        {
+          "date": "1969",
+          "title": "Shakey Robot",
+          "description": "SRI demonstrates Shakey robot",
+          "details": [
+            "SRI demonstrates Shakey robot",
+            "Minsky & Papert publish *Perceptrons*",
+            "Rise of expert systems begins"
+          ],
+          "links": [
+            {
+              "text": "Shakey",
+              "url": "https://chatgpt.com/?q=Shakey%20the%20Robot&hints=search&ref=ext"
+            },
+            {
+              "text": "expert systems",
+              "url": "https://chatgpt.com/?q=expert%20systems&hints=search&ref=ext"
+            }
+          ]
+        },
+        {
+          "date": "1972-1973",
+          "title": "First AI Winter",
+          "details": [
+            "PROLOG language developed (1972)",
+            "Lighthill Report (UK, 1973) leads to funding cuts; first AI winter"
+          ],
+          "links": [
+            {
+              "text": "PROLOG",
+              "url": "https://chatgpt.com/?q=PROLOG&hints=search&ref=ext"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "era-1980",
+      "name": "Expert Systems Era",
+      "period": "1980s",
+      "events": [
+        {
+          "date": "1980",
+          "title": "Expert Systems Rise",
+          "description": "Success of XCON (R1) boosts expert systems. First AAAI conference",
+          "links": [
+            {
+              "text": "XCON (R1)",
+              "url": "https://chatgpt.com/?q=XCON%20R1%20expert%20system&hints=search&ref=ext"
+            }
+          ]
+        },
+        {
+          "date": "1982",
+          "title": "Japan's Fifth Generation",
+          "description": "Japan launches Fifth Generation Computer Systems (FGCS) project",
+          "links": [
+            {
+              "text": "Fifth Generation Computer Systems (FGCS)",
+              "url": "https://chatgpt.com/?q=Fifth%20Generation%20Computer%20Systems%20FGCS&hints=search&ref=ext"
+            }
+          ]
+        },
+        {
+          "date": "Mid-1980s",
+          "title": "Neural Networks Revival",
+          "description": "Neural networks revive; backpropagation algorithm popularized",
+          "links": [
+            {
+              "text": "backpropagation algorithm",
+              "url": "https://chatgpt.com/?q=backpropagation%20algorithm&hints=search&ref=ext"
+            }
+          ]
+        },
+        {
+          "date": "1987",
+          "title": "Second AI Winter",
+          "description": "Expert system market crashes; second AI winter begins"
+        }
+      ]
+    },
+    {
+      "id": "era-1990",
+      "name": "Machine Learning Era",
+      "period": "1990s",
+      "events": [
+        {
+          "date": "1992",
+          "title": "TD-Gammon",
+          "description": "Tesauro's TD-Gammon masters backgammon via reinforcement learning",
+          "links": [
+            {
+              "text": "TD-Gammon",
+              "url": "https://chatgpt.com/?q=TD-Gammon&hints=search&ref=ext"
+            }
+          ]
+        },
+        {
+          "date": "1997",
+          "title": "Deep Blue Victory",
+          "description": "IBM's Deep Blue defeats Garry Kasparov",
+          "links": [
+            {
+              "text": "Deep Blue",
+              "url": "https://chatgpt.com/?q=Deep%20Blue%20chess&hints=search&ref=ext"
+            }
+          ]
+        },
+        {
+          "date": "Late 1990s",
+          "title": "AI Finds Footholds",
+          "sectionTitle": "AI Finds Footholds",
+          "details": [
+            "Speech recognition improves",
+            "LeNet used for check reading",
+            "AIBO robot dog launched"
+          ],
+          "links": [
+            {
+              "text": "LeNet",
+              "url": "https://chatgpt.com/?q=LeCun%20convolutional%20neural%20networks%20LeNet&hints=search&ref=ext"
+            },
+            {
+              "text": "AIBO",
+              "url": "https://chatgpt.com/?q=Sony%20AIBO%20robot%20dog&hints=search&ref=ext"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "era-2000",
+      "name": "Data & Learning",
+      "period": "2000s",
+      "events": [
+        {
+          "date": "2002-2005",
+          "title": "Robotics & Autonomy",
+          "sectionTitle": "Robotics & Autonomy",
+          "details": [
+            "Roomba launched (2002)",
+            "Stanford's *Stanley* wins DARPA Grand Challenge (2005)"
+          ],
+          "links": [
+            {
+              "text": "Roomba",
+              "url": "https://chatgpt.com/?q=Roomba%20vacuum&hints=search&ref=ext"
+            }
+          ]
+        },
+        {
+          "date": "2006",
+          "title": "Deep Learning Revival",
+          "sectionTitle": "Deep Learning Revival",
+          "details": [
+            "Hinton et al. publish on deep belief networks",
+            "ImageNet dataset project begins"
+          ],
+          "links": [
+            {
+              "text": "deep belief networks",
+              "url": "https://chatgpt.com/?q=deep%20belief%20networks&hints=search&ref=ext"
+            },
+            {
+              "text": "ImageNet",
+              "url": "https://chatgpt.com/?q=ImageNet%20project&hints=search&ref=ext"
+            }
+          ]
+        },
+        {
+          "date": "2011",
+          "title": "Watson Wins Jeopardy",
+          "description": "IBM's Watson wins *Jeopardy!*",
+          "links": [
+            {
+              "text": "Watson",
+              "url": "https://chatgpt.com/?q=Watson%20Jeopardy&hints=search&ref=ext"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "era-2012",
+      "name": "Deep Learning Revolution",
+      "period": "2012-2015",
+      "events": [
+        {
+          "date": "2012",
+          "title": "AlexNet Breakthrough",
+          "description": "AlexNet wins ImageNet; deep learning takes off",
+          "links": [
+            {
+              "text": "AlexNet",
+              "url": "https://chatgpt.com/?q=AlexNet&hints=search&ref=ext"
+            }
+          ]
+        },
+        {
+          "date": "2014",
+          "title": "GANs & Seq2Seq",
+          "details": [
+            "GANs introduced by Goodfellow et al.",
+            "Seq2seq models improve machine translation"
+          ],
+          "links": [
+            {
+              "text": "GANs",
+              "url": "https://chatgpt.com/?q=Generative%20Adversarial%20Networks&hints=search&ref=ext"
+            }
+          ]
+        },
+        {
+          "date": "Dec 2015",
+          "title": "OpenAI Founded",
+          "details": [
+            "OpenAI founded",
+            "DeepMind's AlphaGo defeats Fan Hui"
+          ],
+          "links": [
+            {
+              "text": "OpenAI",
+              "url": "https://chatgpt.com/?q=OpenAI&hints=search&ref=ext"
+            },
+            {
+              "text": "AlphaGo",
+              "url": "https://chatgpt.com/?q=AlphaGo&hints=search&ref=ext"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "era-2016",
+      "name": "Superhuman Performance",
+      "period": "2016-2018",
+      "events": [
+        {
+          "date": "Mar 2016",
+          "title": "AlphaGo Defeats Lee Sedol",
+          "description": "AlphaGo defeats Lee Sedol 4-1",
+          "links": [
+            {
+              "text": "AlphaGo",
+              "url": "https://chatgpt.com/?q=AlphaGo&hints=search&ref=ext"
+            }
+          ]
+        },
+        {
+          "date": "2016",
+          "title": "Neural Translation & Tay",
+          "details": [
+            "Google Translate switches to neural nets",
+            "Microsoft's Tay chatbot failure highlights alignment issues"
+          ],
+          "links": [
+            {
+              "text": "Google Translate",
+              "url": "https://chatgpt.com/?q=Google%20Translate&hints=search&ref=ext"
+            },
+            {
+              "text": "Tay",
+              "url": "https://chatgpt.com/?q=Microsoft%20Tay%20chatbot&hints=search&ref=ext"
+            }
+          ]
+        },
+        {
+          "date": "2017",
+          "title": "Transformer Architecture",
+          "details": [
+            "Google introduces the Transformer architecture",
+            "DeepMind's AlphaGo Zero learns Go without human data"
+          ],
+          "links": [
+            {
+              "text": "Transformer",
+              "url": "https://chatgpt.com/?q=Transformer%20architecture&hints=search&ref=ext"
+            },
+            {
+              "text": "AlphaGo Zero",
+              "url": "https://chatgpt.com/?q=AlphaGo%20Zero&hints=search&ref=ext"
+            }
+          ]
+        },
+        {
+          "date": "2018",
+          "title": "BERT, GPT-1 & AlphaFold",
+          "details": [
+            "Google releases BERT",
+            "OpenAI reveals GPT-1",
+            "DeepMind's AlphaFold shows promise at CASP13"
+          ],
+          "links": [
+            {
+              "text": "BERT",
+              "url": "https://chatgpt.com/?q=BERT%20model%20Google&hints=search&ref=ext"
+            },
+            {
+              "text": "GPT-1",
+              "url": "https://chatgpt.com/?q=GPT-1&hints=search&ref=ext"
+            },
+            {
+              "text": "AlphaFold",
+              "url": "https://chatgpt.com/?q=AlphaFold&hints=search&ref=ext"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "era-2019",
+      "name": "Scaling Up",
+      "period": "2019-2020",
+      "events": [
+        {
+          "date": "2019",
+          "title": "GPT-2 & AlphaStar",
+          "details": [
+            "OpenAI unveils GPT-2 (1.5B params), sparking ethics debate",
+            "DeepMind's AlphaStar beats pro StarCraft II players",
+            "OpenAI takes $1B Microsoft investment"
+          ],
+          "links": [
+            {
+              "text": "GPT-2",
+              "url": "https://chatgpt.com/?q=GPT-2&hints=search&ref=ext"
+            },
+            {
+              "text": "AlphaStar",
+              "url": "https://chatgpt.com/?q=AlphaStar&hints=search&ref=ext"
+            }
+          ]
+        },
+        {
+          "date": "2020",
+          "title": "GPT-3 & AlphaFold2",
+          "details": [
+            "OpenAI releases GPT-3 (175B params) via API, demonstrating few-shot learning",
+            "DeepMind's AlphaFold2 achieves breakthrough protein folding accuracy (CASP14)"
+          ],
+          "links": [
+            {
+              "text": "GPT-3",
+              "url": "https://chatgpt.com/?q=GPT-3&hints=search&ref=ext"
+            },
+            {
+              "text": "AlphaFold2",
+              "url": "https://chatgpt.com/?q=AlphaFold%202&hints=search&ref=ext"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "year-2021",
+      "name": "2021",
+      "period": "2021",
+      "events": [
+        {
+          "date": "Jan 2021",
+          "title": "DALL·E & CLIP",
+          "description": "OpenAI reveals DALL·E & CLIP, advancing multimodal AI",
+          "links": [
+            {
+              "text": "DALL·E",
+              "url": "https://chatgpt.com/?q=DALL-E&hints=search&ref=ext"
+            },
+            {
+              "text": "CLIP",
+              "url": "https://chatgpt.com/?q=CLIP%20OpenAI&hints=search&ref=ext"
+            }
+          ]
+        },
+        {
+          "date": "Mid 2021",
+          "title": "Big Models & Tools Proliferate",
+          "sectionTitle": "Big Models & Tools Proliferate",
+          "details": [
+            "LLMs scale up (Google's LaMDA/PaLM, Nvidia/MS MT-NLG)",
+            "Open source: GPT-Neo/J released. BigScience project starts",
+            "Anthropic founded",
+            "OpenAI's Codex powers GitHub Copilot"
+          ],
+          "links": [
+            {
+              "text": "LaMDA",
+              "url": "https://chatgpt.com/?q=LaMDA&hints=search&ref=ext"
+            },
+            {
+              "text": "PaLM",
+              "url": "https://chatgpt.com/?q=PaLM&hints=search&ref=ext"
+            },
+            {
+              "text": "MT-NLG",
+              "url": "https://chatgpt.com/?q=Megatron-Turing%20NLG&hints=search&ref=ext"
+            },
+            {
+              "text": "GPT-Neo",
+              "url": "https://chatgpt.com/?q=GPT-Neo&hints=search&ref=ext"
+            },
+            {
+              "text": "J",
+              "url": "https://chatgpt.com/?q=GPT-J&hints=search&ref=ext"
+            },
+            {
+              "text": "BigScience",
+              "url": "https://chatgpt.com/?q=BigScience%20project&hints=search&ref=ext"
+            },
+            {
+              "text": "Anthropic",
+              "url": "https://chatgpt.com/?q=Anthropic&hints=search&ref=ext"
+            },
+            {
+              "text": "Codex",
+              "url": "https://chatgpt.com/?q=Codex%20OpenAI&hints=search&ref=ext"
+            },
+            {
+              "text": "Copilot",
+              "url": "https://chatgpt.com/?q=GitHub%20Copilot&hints=search&ref=ext"
+            }
+          ]
+        },
+        {
+          "date": "Apr-Nov 2021",
+          "title": "Policy & Ethics Efforts",
+          "sectionTitle": "Policy & Ethics Efforts",
+          "details": [
+            "EU proposes draft AI Act (April)",
+            "UNESCO adopts Recommendation on AI Ethics (November)"
+          ],
+          "links": [
+            {
+              "text": "AI Act",
+              "url": "https://chatgpt.com/?q=EU%20AI%20Act&hints=search&ref=ext"
+            },
+            {
+              "text": "Recommendation on AI Ethics",
+              "url": "https://chatgpt.com/?q=UNESCO%20Recommendation%20on%20AI%20Ethics&hints=search&ref=ext"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "year-2022",
+      "name": "2022",
+      "period": "2022",
+      "events": [
+        {
+          "date": "Apr-Aug 2022",
+          "title": "Generative Imagery Goes Mainstream",
+          "sectionTitle": "Generative Imagery Goes Mainstream",
+          "details": [
+            "OpenAI unveils DALL·E 2",
+            "Google demos Imagen/Parti; Midjourney launches",
+            "Open-source Stable Diffusion released"
+          ],
+          "links": [
+            {
+              "text": "DALL·E 2",
+              "url": "https://chatgpt.com/?q=DALL-E%202&hints=search&ref=ext"
+            },
+            {
+              "text": "Imagen",
+              "url": "https://chatgpt.com/?q=Imagen%20Google&hints=search&ref=ext"
+            },
+            {
+              "text": "Parti",
+              "url": "https://chatgpt.com/?q=Parti%20Google&hints=search&ref=ext"
+            },
+            {
+              "text": "Stable Diffusion",
+              "url": "https://chatgpt.com/?q=Stable%20Diffusion&hints=search&ref=ext"
+            }
+          ]
+        },
+        {
+          "date": "May-Jul 2022",
+          "title": "Open Language Models",
+          "sectionTitle": "Open Language Models",
+          "details": [
+            "Meta releases OPT-175B to academics",
+            "BigScience releases multilingual BLOOM (176B)"
+          ],
+          "links": [
+            {
+              "text": "OPT-175B",
+              "url": "https://chatgpt.com/?q=OPT-175B&hints=search&ref=ext"
+            },
+            {
+              "text": "BLOOM",
+              "url": "https://chatgpt.com/?q=BLOOM%20language%20model&hints=search&ref=ext"
+            }
+          ]
+        },
+        {
+          "date": "Sep 2022",
+          "title": "Whisper Released",
+          "description": "OpenAI releases Whisper ASR model open source",
+          "links": [
+            {
+              "text": "Whisper",
+              "url": "https://chatgpt.com/?q=Whisper%20speech%20recognition&hints=search&ref=ext"
+            }
+          ]
+        },
+        {
+          "date": "Nov 30, 2022",
+          "title": "ChatGPT Launch",
+          "description": "OpenAI launches ChatGPT (GPT-3.5 based), reaching 1M users in 5 days",
+          "links": [
+            {
+              "text": "ChatGPT",
+              "url": "https://chatgpt.com/?q=ChatGPT&hints=search&ref=ext"
+            }
+          ]
+        },
+        {
+          "date": "Dec 2022",
+          "title": "Early Regulations",
+          "description": "Early regulatory signals: US FTC guidance, EU EDPB ChatGPT task force"
+        }
+      ]
+    },
+    {
+      "id": "year-2023",
+      "name": "2023",
+      "period": "2023",
+      "events": [
+        {
+          "date": "Jan 2023",
+          "title": "Microsoft $10B Investment",
+          "description": "Microsoft announces further $10B investment in OpenAI"
+        },
+        {
+          "date": "Feb 2023",
+          "title": "Bing Chat & LLaMA",
+          "details": [
+            "Microsoft launches Bing Chat (GPT-4 powered)",
+            "Meta AI releases LLaMA models to researchers"
+          ],
+          "links": [
+            {
+              "text": "Bing Chat",
+              "url": "https://chatgpt.com/?q=Bing%20Chat&hints=search&ref=ext"
+            },
+            {
+              "text": "LLaMA",
+              "url": "https://chatgpt.com/?q=LLaMA%20Meta&hints=search&ref=ext"
+            }
+          ]
+        },
+        {
+          "date": "Mar 2023",
+          "title": "GPT-4 & Competitors Launch",
+          "sectionTitle": "GPT-4 & Competitors Launch",
+          "details": [
+            "OpenAI unveils GPT-4",
+            "Google makes Bard public",
+            "Anthropic launches Claude",
+            "LLaMA weights leak sparks open-source fine-tuning boom (Alpaca, Vicuna)",
+            "Future of Life Institute AI moratorium letter published"
+          ],
+          "links": [
+            {
+              "text": "GPT-4",
+              "url": "https://chatgpt.com/?q=GPT-4&hints=search&ref=ext"
+            },
+            {
+              "text": "Bard",
+              "url": "https://chatgpt.com/?q=Google%20Bard&hints=search&ref=ext"
+            },
+            {
+              "text": "Claude",
+              "url": "https://chatgpt.com/?q=Claude%20Anthropic&hints=search&ref=ext"
+            },
+            {
+              "text": "Alpaca",
+              "url": "https://chatgpt.com/?q=Stanford%20Alpaca&hints=search&ref=ext"
+            },
+            {
+              "text": "Vicuna",
+              "url": "https://chatgpt.com/?q=Vicuna%20chatbot&hints=search&ref=ext"
+            }
+          ]
+        },
+        {
+          "date": "May 2023",
+          "title": "AI Integration & PaLM 2",
+          "details": [
+            "AI integrated into Microsoft 365 Copilot, Google Workspace. Google announces PaLM 2",
+            "AI lab CEOs sign statement on existential risks"
+          ],
+          "links": [
+            {
+              "text": "Microsoft 365 Copilot",
+              "url": "https://chatgpt.com/?q=Microsoft%20Copilot&hints=search&ref=ext"
+            },
+            {
+              "text": "PaLM 2",
+              "url": "https://chatgpt.com/?q=PaLM%202&hints=search&ref=ext"
+            }
+          ]
+        },
+        {
+          "date": "June 2023",
+          "title": "EU AI Act Passes",
+          "description": "European Parliament passes its version of the EU AI Act",
+          "links": [
+            {
+              "text": "EU AI Act",
+              "url": "https://chatgpt.com/?q=EU%20AI%20Act&hints=search&ref=ext"
+            }
+          ]
+        },
+        {
+          "date": "July 2023",
+          "title": "Frontier Forum & Llama 2",
+          "details": [
+            "Frontier Model Forum launched by major AI labs",
+            "Meta releases Llama 2 (commercial open source)",
+            "Anthropic releases Claude 2 (100k context)",
+            "AI firms make voluntary safety commitments to White House"
+          ],
+          "links": [
+            {
+              "text": "Frontier Model Forum",
+              "url": "https://chatgpt.com/?q=Frontier%20Model%20Forum&hints=search&ref=ext"
+            },
+            {
+              "text": "Llama 2",
+              "url": "https://chatgpt.com/?q=Llama%202&hints=search&ref=ext"
+            },
+            {
+              "text": "Claude 2",
+              "url": "https://chatgpt.com/?q=Claude%202&hints=search&ref=ext"
+            }
+          ]
+        },
+        {
+          "date": "Aug 2023",
+          "title": "GPT-3.5 Fine-tuning",
+          "details": [
+            "OpenAI enables fine-tuning for GPT-3.5 Turbo",
+            "OpenAI launches ChatGPT Enterprise"
+          ],
+          "links": [
+            {
+              "text": "GPT-3.5 Turbo",
+              "url": "https://chatgpt.com/?q=GPT-3.5%20Turbo&hints=search&ref=ext"
+            },
+            {
+              "text": "ChatGPT Enterprise",
+              "url": "https://chatgpt.com/?q=ChatGPT%20Enterprise&hints=search&ref=ext"
+            }
+          ]
+        },
+        {
+          "date": "Sept 2023",
+          "title": "ChatGPT Multimodal",
+          "description": "OpenAI adds DALL·E 3, Vision (GPT-4V), and voice capabilities to ChatGPT",
+          "links": [
+            {
+              "text": "DALL·E 3",
+              "url": "https://chatgpt.com/?q=DALL-E%203&hints=search&ref=ext"
+            },
+            {
+              "text": "Vision (GPT-4V)",
+              "url": "https://chatgpt.com/?q=ChatGPT%20Vision&hints=search&ref=ext"
+            }
+          ]
+        },
+        {
+          "date": "Oct-Nov 2023",
+          "title": "AI Safety & OpenAI Crisis",
+          "details": [
+            "White House issues U.S. Executive Order on Safe AI",
+            "UK hosts AI Safety Summit; Bletchley Declaration signed",
+            "OpenAI DevDay announces GPT-4 Turbo & Custom GPTs platform",
+            "OpenAI CEO Sam Altman briefly fired, then reinstated after crisis"
+          ],
+          "links": [
+            {
+              "text": "U.S. Executive Order on Safe AI",
+              "url": "https://chatgpt.com/?q=U.S.%20Executive%20Order%20on%20Safe%20AI&hints=search&ref=ext"
+            },
+            {
+              "text": "Bletchley Declaration",
+              "url": "https://chatgpt.com/?q=Bletchley%20Declaration&hints=search&ref=ext"
+            },
+            {
+              "text": "GPT-4 Turbo",
+              "url": "https://chatgpt.com/?q=GPT-4%20Turbo&hints=search&ref=ext"
+            },
+            {
+              "text": "Custom GPTs",
+              "url": "https://chatgpt.com/?q=Custom%20GPTs&hints=search&ref=ext"
+            }
+          ]
+        },
+        {
+          "date": "Dec 2023",
+          "title": "Gemini Launch",
+          "details": [
+            "Google DeepMind introduces Gemini models; Gemini Pro available via API"
+          ],
+          "links": [
+            {
+              "text": "Gemini",
+              "url": "https://chatgpt.com/?q=Gemini%20AI&hints=search&ref=ext"
+            },
+            {
+              "text": "Gemini Pro",
+              "url": "https://chatgpt.com/?q=Gemini%20Pro&hints=search&ref=ext"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "year-2024",
+      "name": "2024",
+      "period": "2024",
+      "events": [
+        {
+          "date": "Jan 2024",
+          "title": "GPT Store Launch",
+          "description": "OpenAI launches the GPT Store for Custom GPTs",
+          "links": [
+            {
+              "text": "GPT Store",
+              "url": "https://chatgpt.com/?q=GPT%20Store&hints=search&ref=ext"
+            }
+          ]
+        },
+        {
+          "date": "Feb 2024",
+          "title": "Gemini 1.5 & Gemma",
+          "details": [
+            "Google releases Gemini 1.5 Pro (preview) with 1M token context",
+            "Google releases Gemma open models"
+          ],
+          "links": [
+            {
+              "text": "Gemini 1.5 Pro",
+              "url": "https://chatgpt.com/?q=Gemini%201.5%20Pro&hints=search&ref=ext"
+            },
+            {
+              "text": "Gemma",
+              "url": "https://chatgpt.com/?q=Gemma%20Google&hints=search&ref=ext"
+            }
+          ]
+        },
+        {
+          "date": "Mar 2024",
+          "title": "Claude 3 & EU AI Act",
+          "details": [
+            "Anthropic releases Claude 3 models (Haiku, Sonnet, Opus)",
+            "EU Parliament gives final approval to the EU AI Act"
+          ],
+          "links": [
+            {
+              "text": "Claude 3",
+              "url": "https://chatgpt.com/?q=Claude%203&hints=search&ref=ext"
+            },
+            {
+              "text": "EU AI Act",
+              "url": "https://chatgpt.com/?q=EU%20AI%20Act&hints=search&ref=ext"
+            }
+          ]
+        },
+        {
+          "date": "Apr 2024",
+          "title": "Llama 3 Release",
+          "description": "Meta releases Llama 3 (8B, 70B) open source models",
+          "links": [
+            {
+              "text": "Llama 3",
+              "url": "https://chatgpt.com/?q=Llama%203&hints=search&ref=ext"
+            }
+          ]
+        },
+        {
+          "date": "May 2024",
+          "title": "GPT-4o & Gemini Flash",
+          "details": [
+            "OpenAI releases GPT-4o (\"omni\") model with enhanced multimodality",
+            "Google releases Gemini 1.5 Flash & previews 2M token context"
+          ],
+          "links": [
+            {
+              "text": "GPT-4o",
+              "url": "https://chatgpt.com/?q=GPT-4o&hints=search&ref=ext"
+            },
+            {
+              "text": "Gemini 1.5 Flash",
+              "url": "https://chatgpt.com/?q=Gemini%201.5%20Flash&hints=search&ref=ext"
+            }
+          ]
+        },
+        {
+          "date": "June 2024",
+          "title": "DALL·E 3 & Claude 3.5",
+          "details": [
+            "OpenAI deepens DALL·E 3 integration in ChatGPT",
+            "Anthropic releases Claude 3.5 Sonnet with 'Artifacts' feature"
+          ],
+          "links": [
+            {
+              "text": "DALL·E 3",
+              "url": "https://chatgpt.com/?q=DALL-E%203&hints=search&ref=ext"
+            },
+            {
+              "text": "Claude 3.5 Sonnet",
+              "url": "https://chatgpt.com/?q=Claude%203.5%20Sonnet&hints=search&ref=ext"
+            }
+          ]
+        },
+        {
+          "date": "July 2024",
+          "title": "GPT-4o mini & Llama 3.1",
+          "details": [
+            "OpenAI releases GPT-4o mini",
+            "Meta releases Llama 3.1 (incl. 405B model)"
+          ],
+          "links": [
+            {
+              "text": "GPT-4o mini",
+              "url": "https://chatgpt.com/?q=GPT-4o%20mini&hints=search&ref=ext"
+            },
+            {
+              "text": "Llama 3.1",
+              "url": "https://chatgpt.com/?q=Llama%203.1&hints=search&ref=ext"
+            }
+          ]
+        },
+        {
+          "date": "Sep 2024",
+          "title": "o1 Reasoning Models",
+          "details": [
+            "OpenAI reveals experimental \"o1\" reasoning models (preview/mini)",
+            "Google releases updated Gemini 1.5 Pro/Flash"
+          ],
+          "links": [
+            {
+              "text": "\"o1\"",
+              "url": "https://chatgpt.com/?q=o1%20model%20OpenAI&hints=search&ref=ext"
+            },
+            {
+              "text": "Gemini 1.5 Pro/Flash",
+              "url": "https://chatgpt.com/?q=Gemini%201.5%20Pro&hints=search&ref=ext"
+            }
+          ]
+        },
+        {
+          "date": "Oct 2024",
+          "title": "Voice, Computer Use & Apple",
+          "details": [
+            "ChatGPT enhances voice and image capabilities",
+            "Anthropic adds 'Computer Use' feature (preview)",
+            "Apple rolls out Apple Intelligence features"
+          ],
+          "links": [
+            {
+              "text": "voice and image",
+              "url": "https://chatgpt.com/?q=ChatGPT%20voice%20image%20features&hints=search&ref=ext"
+            },
+            {
+              "text": "Computer Use",
+              "url": "https://chatgpt.com/?q=Claude%20Computer%20Use%20feature&hints=search&ref=ext"
+            },
+            {
+              "text": "Apple Intelligence",
+              "url": "https://chatgpt.com/?q=Apple%20Intelligence&hints=search&ref=ext"
+            }
+          ]
+        },
+        {
+          "date": "Dec 2024",
+          "title": "End-of-Year Model Flurry",
+          "sectionTitle": "End-of-Year Model Flurry",
+          "details": [
+            "Google announces Gemini 2.0 Flash (Experimental) focused on agents/speed",
+            "OpenAI makes Sora (video) API available, makes o1 models generally available (GA), announces o3 reasoning model",
+            "Anthropic releases Claude 3.5 Haiku",
+            "Microsoft launches Phi-4 SLMs",
+            "Amazon announces Nova LLMs"
+          ],
+          "links": [
+            {
+              "text": "Gemini 2.0 Flash (Experimental)",
+              "url": "https://chatgpt.com/?q=Gemini%202.0%20Flash&hints=search&ref=ext"
+            },
+            {
+              "text": "Sora",
+              "url": "https://chatgpt.com/?q=Sora%20API&hints=search&ref=ext"
+            },
+            {
+              "text": "o1 models",
+              "url": "https://chatgpt.com/?q=o1%20models%20OpenAI&hints=search&ref=ext"
+            },
+            {
+              "text": "o3",
+              "url": "https://chatgpt.com/?q=o3%20OpenAI&hints=search&ref=ext"
+            },
+            {
+              "text": "Claude 3.5 Haiku",
+              "url": "https://chatgpt.com/?q=Claude%203.5%20Haiku&hints=search&ref=ext"
+            },
+            {
+              "text": "Phi-4",
+              "url": "https://chatgpt.com/?q=Phi-4&hints=search&ref=ext"
+            },
+            {
+              "text": "Nova",
+              "url": "https://chatgpt.com/?q=Nova%20LLM%20Amazon&hints=search&ref=ext"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "year-2025",
+      "name": "2025",
+      "period": "2025",
+      "events": [
+        {
+          "date": "Jan 2025",
+          "title": "Multimodal Convergence & Reasoning",
+          "sectionTitle": "The Great Convergence",
+          "details": [
+            "OpenAI's o1 model gains enhanced reasoning and multimodal capabilities",
+            "Google releases Gemini 2.0 Flash with Thinking Mode for step-by-step reasoning",
+            "Claude 3.5, Llama 3.3, and Phi-4 all gain multimodal capabilities (text, audio, images)",
+            "Stargate Project AI supercomputer initiative announced ($500B investment)",
+            "All major models now support advanced multistep problem-solving"
+          ],
+          "links": [
+            {
+              "text": "o1",
+              "url": "https://chatgpt.com/?q=OpenAI%20o1%20model&hints=search&ref=ext"
+            },
+            {
+              "text": "Gemini 2.0 Flash",
+              "url": "https://chatgpt.com/?q=Gemini%202.0%20Flash%20Thinking&hints=search&ref=ext"
+            },
+            {
+              "text": "Claude 3.5",
+              "url": "https://chatgpt.com/?q=Claude%203.5%20multimodal&hints=search&ref=ext"
+            },
+            {
+              "text": "Stargate Project",
+              "url": "https://chatgpt.com/?q=Stargate%20Project%20AI%20supercomputer&hints=search&ref=ext"
+            },
+            {
+              "text": "Llama 3.3",
+              "url": "https://chatgpt.com/?q=Llama%203.3%20multimodal&hints=search&ref=ext"
+            }
+          ]
+        },
+        {
+          "date": "Feb 2025",
+          "title": "Gemini 2.0 Pro & Claude 3.7",
+          "details": [
+            "Google releases Gemini 2.0 Pro and experimental Flash \"Thinking\" models",
+            "Anthropic releases Claude 3.7 Sonnet to paid users"
+          ],
+          "links": [
+            {
+              "text": "Gemini 2.0 Pro",
+              "url": "https://chatgpt.com/?q=Gemini%202.0%20Pro&hints=search&ref=ext"
+            },
+            {
+              "text": "Claude 3.7 Sonnet",
+              "url": "https://chatgpt.com/?q=Claude%203.7%20Sonnet&hints=search&ref=ext"
+            }
+          ]
+        },
+        {
+          "date": "Mar 2025",
+          "title": "Gemini 2.5 Pro & Gemma 3",
+          "details": [
+            "Google releases Gemini 2.5 Pro (Experimental), claiming SOTA performance",
+            "Google releases Gemma 3 open models"
+          ],
+          "links": [
+            {
+              "text": "Gemini 2.5 Pro (Experimental)",
+              "url": "https://chatgpt.com/?q=Gemini%202.5%20Pro&hints=search&ref=ext"
+            },
+            {
+              "text": "Gemma 3",
+              "url": "https://chatgpt.com/?q=Gemma%203&hints=search&ref=ext"
+            }
+          ]
+        },
+        {
+          "date": "Apr 2025",
+          "title": "Llama 4 & MCP Adoption",
+          "details": [
+            "Meta releases Llama 4 open source models",
+            "OpenAI announces plans for a new open-source model release",
+            "Google & OpenAI adopt Model Context Protocol"
+          ],
+          "links": [
+            {
+              "text": "Llama 4",
+              "url": "https://chatgpt.com/?q=Llama%204&hints=search&ref=ext"
+            },
+            {
+              "text": "open-source model",
+              "url": "https://chatgpt.com/?q=OpenAI%20open%20source%20model&hints=search&ref=ext"
+            },
+            {
+              "text": "Model Context Protocol",
+              "url": "https://chatgpt.com/?q=Model%20Context%20Protocol&hints=search&ref=ext"
+            }
+          ]
+        },
+        {
+          "date": "May 2025",
+          "title": "Claude 4 Family & Federal AI",
+          "details": [
+            "Anthropic introduces Claude 4 family (Opus and Sonnet models)",
+            "Anthropic offers Claude to all three branches of US government for $1",
+            "Enhanced multimodal capabilities become standard across all platforms",
+            "AI reasoning capabilities reach new milestones in problem-solving"
+          ],
+          "links": [
+            {
+              "text": "Claude 4",
+              "url": "https://chatgpt.com/?q=Claude%204%20Opus%20Sonnet&hints=search&ref=ext"
+            },
+            {
+              "text": "Government AI",
+              "url": "https://chatgpt.com/?q=Anthropic%20Claude%20government%20federal&hints=search&ref=ext"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "outlook",
+      "name": "Future Outlook",
+      "period": "2025+",
+      "events": [
+        {
+          "date": "2025 Outlook",
+          "title": "Towards AGI & Alignment",
+          "sectionTitle": "Towards AGI & Alignment",
+          "description": "Debate on proximity to AGI continues. Focus intensifies on AI alignment and safety research. AI safety field matures with standardized tests and red-teaming. Policymakers address data privacy, copyright, and liability for generative AI.",
+          "additionalText": "The world balances reaping AI benefits (science, medicine, productivity) while managing risks (misinformation, bias, autonomy).",
+          "links": [
+            {
+              "text": "AGI",
+              "url": "https://chatgpt.com/?q=artificial%20general%20intelligence%20(AGI)&hints=search&ref=ext"
+            },
+            {
+              "text": "AI alignment",
+              "url": "https://chatgpt.com/?q=AI%20alignment&hints=search&ref=ext"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "metadata": {
+    "lastUpdated": "2025-01-27",
+    "version": "2.0.0",
+    "sources": [
+      "OpenAI Blog",
+      "Google AI Blog",
+      "Anthropic Blog",
+      "Meta AI Research",
+      "DeepMind",
+      "MIT Technology Review",
+      "The Verge",
+      "TechCrunch",
+      "ArXiv",
+      "AI Safety Institute"
+    ]
+  }
+}
