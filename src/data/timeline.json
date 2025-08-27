@@ -1078,12 +1078,28 @@
           ]
         },
         {
+          "date": "Oct 9, 2024",
+          "title": "Nobel Prize for AI",
+          "details": [
+            "Hassabis & Jumper win Nobel Chemistry for AlphaFold",
+            "David Baker wins for computational protein design",
+            "AlphaFold2 predicted 200M protein structures"
+          ],
+          "links": [
+            {
+              "text": "Nobel 2024",
+              "url": "https://chatgpt.com/?q=Nobel%20Prize%20AlphaFold&hints=search&ref=ext"
+            }
+          ]
+        },
+        {
           "date": "Oct 2024",
           "title": "Voice, Computer Use & Apple",
           "details": [
             "ChatGPT enhances voice and image capabilities",
             "Anthropic adds 'Computer Use' feature (preview)",
-            "Apple rolls out Apple Intelligence features"
+            "Apple rolls out Apple Intelligence features",
+            "Tesla demos Optimus robot, targets $20-30K price"
           ],
           "links": [
             {
