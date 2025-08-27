@@ -6,18 +6,21 @@ import './styles/timeline.css';
 import { DataLoader } from './modules/data-loader';
 import { Navigation } from './modules/navigation';
 import { TimelineRenderer } from './modules/timeline-renderer';
+import { TimelineStatistics } from './modules/statistics';
 import { TimelineData } from './types/timeline';
 
 class AIHistoryTimeline {
   private dataLoader: DataLoader;
   private navigation: Navigation;
   private timelineRenderer: TimelineRenderer;
+  private statistics: TimelineStatistics;
   private isInitialized: boolean = false;
 
   constructor() {
     this.dataLoader = new DataLoader();
     this.navigation = new Navigation('sticky-nav');
     this.timelineRenderer = new TimelineRenderer('timeline-container');
+    this.statistics = new TimelineStatistics();
   }
 
   async initialize(): Promise<void> {
@@ -35,6 +38,10 @@ class AIHistoryTimeline {
 
       // Render components
       this.renderTimeline(timelineData);
+
+      // Render statistics
+      this.statistics.addStyles();
+      this.statistics.render(timelineData);
 
       // Set up event listeners
       this.setupEventListeners();
