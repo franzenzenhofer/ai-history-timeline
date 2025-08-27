@@ -16,7 +16,7 @@ export class TimelineRenderer {
     this.container.innerHTML = '';
     this.eventIndex = 0;
     
-    eras.forEach((era, eraIndex) => {
+    eras.forEach((era) => {
       era.events.forEach((event, eventIndex) => {
         const isFirstInEra = eventIndex === 0;
         const eventElement = this.createEventElement(event, era.id, isFirstInEra);
