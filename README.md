@@ -2,8 +2,9 @@
 
 A comprehensive, interactive timeline tracking the evolution of artificial intelligence from 1950 to present day.
 
-## 🌐 Live Site
-[https://ai-history-3n1.pages.dev](https://ai-history-3n1.pages.dev)
+## 🌐 Live Sites
+- Production: [https://ai-history-3n1.pages.dev](https://ai-history-3n1.pages.dev)
+- Custom Domain: `aihistory.franzai.com` (pending DNS configuration)
 
 ## 🚀 Features
 
@@ -91,7 +92,12 @@ npm run build
 
 ### Deploy to Cloudflare Pages
 ```bash
-npx wrangler pages deploy dist --project-name ai-history
+npm run deploy
+```
+
+### Update Timeline Data
+```bash
+npm run update
 ```
 
 ## 📝 Adding Events
