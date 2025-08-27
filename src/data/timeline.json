@@ -221,9 +221,9 @@
           ]
         },
         {
-          "date": "2011",
-          "title": "Watson Wins Jeopardy",
-          "description": "IBM's Watson wins *Jeopardy!*",
+          "date": "Feb 14-16, 2011",
+          "title": "Watson Wins Jeopardy!",
+          "description": "IBM Watson defeats Ken Jennings and Brad Rutter with $77,147 to $24,000 and $21,600",
           "links": [
             {
               "text": "Watson",
@@ -239,9 +239,9 @@
       "period": "2012-2015",
       "events": [
         {
-          "date": "2012",
-          "title": "AlexNet Breakthrough",
-          "description": "AlexNet wins ImageNet; deep learning takes off",
+          "date": "Sep 2012",
+          "title": "AlexNet Wins ImageNet",
+          "description": "Krizhevsky, Sutskever & Hinton's AlexNet achieves 15.3% error rate (vs 26.2% runner-up) in ILSVRC",
           "links": [
             {
               "text": "AlexNet",
@@ -369,7 +369,7 @@
           "date": "2019",
           "title": "GPT-2 & AlphaStar",
           "details": [
-            "OpenAI unveils GPT-2 (1.5B params), sparking ethics debate",
+            "OpenAI announces GPT-2 (Feb 2019), releases full 1.5B model (Nov 5, 2019) after staged rollout",
             "DeepMind's AlphaStar beats pro StarCraft II players",
             "OpenAI takes $1B Microsoft investment"
           ],
@@ -559,8 +559,8 @@
         },
         {
           "date": "Nov 30, 2022",
-          "title": "ChatGPT Launch",
-          "description": "OpenAI launches ChatGPT (GPT-3.5 based), reaching 1M users in 5 days",
+          "title": "ChatGPT Launches",
+          "description": "OpenAI releases ChatGPT as free research preview, reaches 1 million users in 5 days",
           "links": [
             {
               "text": "ChatGPT",
