@@ -1,13 +1,15 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100">
-  <defs>
-    <linearGradient id="gradient" x1="0%" y1="0%" x2="100%" y2="100%">
-      <stop offset="0%" style="stop-color:#2563eb;stop-opacity:1" />
-      <stop offset="100%" style="stop-color:#1d4ed8;stop-opacity:1" />
-    </linearGradient>
-  </defs>
-  <rect width="100" height="100" rx="20" fill="url(#gradient)"/>
-  <text x="50" y="50" font-family="Arial, sans-serif" font-size="45" font-weight="bold" fill="white" text-anchor="middle" dominant-baseline="middle">AI</text>
-  <circle cx="50" cy="75" r="3" fill="white"/>
-  <circle cx="50" cy="25" r="3" fill="white"/>
-  <line x1="50" y1="28" x2="50" y2="72" stroke="white" stroke-width="2"/>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512">
+  <rect width="512" height="512" fill="#0050c8"/>
+  <g transform="translate(256, 256)">
+    <!-- AI letters -->
+    <text x="-128" y="20" font-family="Arial, sans-serif" font-size="180" font-weight="bold" fill="#ffffff" text-anchor="middle">AI</text>
+    <!-- Timeline dots -->
+    <circle cx="-100" cy="80" r="12" fill="#ffffff"/>
+    <circle cx="-50" cy="80" r="12" fill="#ffffff"/>
+    <circle cx="0" cy="80" r="12" fill="#ffffff"/>
+    <circle cx="50" cy="80" r="12" fill="#ffffff"/>
+    <circle cx="100" cy="80" r="12" fill="#ffffff"/>
+    <!-- Connecting line -->
+    <rect x="-100" y="78" width="200" height="4" fill="#ffffff"/>
+  </g>
 </svg>
