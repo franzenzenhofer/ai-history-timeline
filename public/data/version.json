@@ -1,7 +1,19 @@
 {
-  "version": "2.1.0",
-  "lastUpdated": "2025-01-27",
+  "version": "2.2.0",
+  "lastUpdated": "2025-08-27",
   "changes": [
+    {
+      "version": "2.2.0",
+      "date": "2025-08-27",
+      "updates": [
+        "Added GPT-5 launch announcement (August 7, 2025)",
+        "Added Claude Opus 4.1 release with competitive benchmarks",
+        "Added OpenAI's first open-source models since GPT-2",
+        "Added July 2025 Grok 4 release and infrastructure investments",
+        "Added AI geopolitical developments and enterprise adoption metrics",
+        "Updated with latest August 2025 AI race developments"
+      ]
+    },
     {
       "version": "2.1.0",
       "date": "2025-01-27",

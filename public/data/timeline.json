@@ -1087,6 +1087,69 @@
               "url": "https://chatgpt.com/?q=Anthropic%20Claude%20government%20federal&hints=search&ref=ext"
             }
           ]
+        },
+        {
+          "date": "Jul 2025",
+          "title": "Grok 4 & AI Infrastructure Race",
+          "details": [
+            "xAI releases Grok 4 with advanced reasoning capabilities",
+            "Meta commits $72 billion for AI infrastructure in 2025",
+            "Alphabet allocates $85 billion for AI capital expenditures"
+          ],
+          "links": [
+            {
+              "text": "Grok 4",
+              "url": "https://chatgpt.com/?q=Grok%204%20xAI&hints=search&ref=ext"
+            }
+          ]
+        },
+        {
+          "date": "Aug 2025",
+          "title": "GPT-5 Launch: The AI Race Intensifies",
+          "sectionTitle": "Historic Week of AI Releases",
+          "details": [
+            "OpenAI releases GPT-5: first unified model with 1.8T parameters, 1M token context",
+            "GPT-5 achieves 94.6% on AIME 2025 math, 74.9% on SWE-bench coding tasks",
+            "Anthropic launches Claude Opus 4.1 with 200k context, scoring 74.5% on SWE-bench",
+            "OpenAI releases first open-source models since GPT-2: gpt-oss-120b and gpt-oss-20b",
+            "GPT-5 API priced aggressively at $1.25/1M input tokens, sparking price war",
+            "Enterprise AI adoption surges 8x for reasoning workloads"
+          ],
+          "spacing": "large",
+          "links": [
+            {
+              "text": "GPT-5",
+              "url": "https://chatgpt.com/?q=GPT-5%20OpenAI%20launch&hints=search&ref=ext"
+            },
+            {
+              "text": "Claude Opus 4.1",
+              "url": "https://chatgpt.com/?q=Claude%20Opus%204.1&hints=search&ref=ext"
+            },
+            {
+              "text": "open-source models",
+              "url": "https://chatgpt.com/?q=OpenAI%20gpt-oss%20open%20source&hints=search&ref=ext"
+            }
+          ]
+        },
+        {
+          "date": "Aug 2025",
+          "title": "AI Infrastructure & Geopolitics",
+          "details": [
+            "Google announces $9 billion AI data center investment in Oklahoma",
+            "Anthropic offers Claude to US government for $1/year per agency",
+            "Sam Altman warns about China's strategic AI advancements",
+            "Cursor shifts from Claude to GPT-5 for coding assistance"
+          ],
+          "links": [
+            {
+              "text": "Google AI infrastructure",
+              "url": "https://chatgpt.com/?q=Google%20AI%20data%20center%20Oklahoma&hints=search&ref=ext"
+            },
+            {
+              "text": "Claude government deal",
+              "url": "https://chatgpt.com/?q=Anthropic%20Claude%20government%201%20dollar&hints=search&ref=ext"
+            }
+          ]
         }
       ]
     },
@@ -1116,8 +1179,8 @@
     }
   ],
   "metadata": {
-    "lastUpdated": "2025-01-27",
-    "version": "2.0.0",
+    "lastUpdated": "2025-08-27",
+    "version": "2.2.0",
     "sources": [
       "OpenAI Blog",
       "Google AI Blog",
