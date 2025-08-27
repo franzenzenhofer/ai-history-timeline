@@ -888,7 +888,7 @@
         },
         {
           "date": "Feb 2024",
-          "title": "Mistral AI Large & Gemini 1.5",
+          "title": "Mistral Le Chat & Gemini 1.5",
           "details": [
             "Mistral AI releases Mistral Large model in February 2024",
             "Mistral partners with Microsoft Azure for cloud deployment",
@@ -1071,9 +1071,9 @@
         },
         {
           "date": "Dec 2024",
-          "title": "End-of-Year Model Flurry",
-          "sectionTitle": "End-of-Year Model Flurry",
+          "title": "DeepSeek V3 & Year-End Models",
           "details": [
+            "DeepSeek releases V3 with 671B parameters, trained for only $5.6M (Dec 26)",
             "Google announces Gemini 2.0 Flash (Experimental) focused on agents/speed",
             "OpenAI makes Sora (video) API available, makes o1 models generally available (GA), announces o3 reasoning model",
             "Anthropic releases Claude 3.5 Haiku",
@@ -1118,6 +1118,25 @@
       "name": "2025",
       "period": "2025",
       "events": [
+        {
+          "date": "Jan 2025",
+          "title": "DeepSeek R1 & Qwen 2.5-Max",
+          "details": [
+            "DeepSeek releases R1 reasoning model, surpasses ChatGPT on App Store (Jan 20)",
+            "Alibaba launches Qwen 2.5-Max, claims superiority over DeepSeek-V3 (Jan 29)",
+            "DeepSeek triggers 18% Nvidia stock drop with efficient training approach"
+          ],
+          "links": [
+            {
+              "text": "DeepSeek R1",
+              "url": "https://chatgpt.com/?q=DeepSeek%20R1%202025&hints=search&ref=ext"
+            },
+            {
+              "text": "Qwen 2.5-Max",
+              "url": "https://chatgpt.com/?q=Qwen%202.5-Max%20Alibaba&hints=search&ref=ext"
+            }
+          ]
+        },
         {
           "date": "Jan 2025",
           "title": "Multimodal Convergence & Reasoning",
@@ -1205,7 +1224,10 @@
         },
         {
           "date": "Apr 2025",
-          "title": "Llama 4 & MCP Adoption",
+          "title": "Qwen3 & Llama 4",
+          "details": [
+            "Alibaba releases Qwen3 family: 235B sparse model beats o3-mini (Apr 28)",
+            "Meta releases Llama 4 open source models",
           "details": [
             "Meta releases Llama 4 open source models",
             "OpenAI announces plans for a new open-source model release",
