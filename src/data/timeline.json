@@ -735,6 +735,21 @@
           ]
         },
         {
+          "date": "Aug 24, 2023",
+          "title": "Hugging Face $4.5B Valuation",
+          "details": [
+            "Hugging Face raises $235M at $4.5B valuation led by Salesforce",
+            "Google, Amazon, NVIDIA, Intel, AMD, IBM participate in round",
+            "Platform hosts 500K models, 250K datasets, 250K apps"
+          ],
+          "links": [
+            {
+              "text": "Hugging Face funding",
+              "url": "https://chatgpt.com/?q=Hugging%20Face%20funding%202023&hints=search&ref=ext"
+            }
+          ]
+        },
+        {
           "date": "Aug 2023",
           "title": "GPT-3.5 Fine-tuning",
           "details": [
@@ -1029,11 +1044,27 @@
           ]
         },
         {
-          "date": "Sep 2024",
-          "title": "o1 Reasoning Models",
+          "date": "Sep 12, 2024",
+          "title": "OpenAI o1 Launch",
           "details": [
-            "OpenAI reveals experimental \"o1\" reasoning models (preview/mini)",
-            "Google releases updated Gemini 1.5 Pro/Flash"
+            "OpenAI releases o1-preview and o1-mini reasoning models",
+            "o1-mini is 80% cheaper than o1-preview for coding tasks",
+            "Models use chain-of-thought reasoning for complex problems"
+          ],
+          "links": [
+            {
+              "text": "OpenAI o1",
+              "url": "https://chatgpt.com/?q=OpenAI%20o1&hints=search&ref=ext"
+            }
+          ]
+        },
+        {
+          "date": "Jun 12, 2024",
+          "title": "Stable Diffusion 3 Release",
+          "details": [
+            "Stability AI releases SD3 Medium (2B parameters)",
+            "Improved multi-subject prompts and spelling in images",
+            "Uses 3 text encoders and 16-channel VAE"
           ],
           "links": [
             {
