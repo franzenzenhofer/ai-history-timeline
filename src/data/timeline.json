@@ -824,6 +824,24 @@
         },
         {
           "date": "Dec 2023",
+          "title": "EU AI Act & Mistral Funding",
+          "details": [
+            "EU reaches agreement on AI Act after marathon negotiations (Dec 8)",
+            "Mistral AI raises €385M at $2B valuation (Dec 11)"
+          ],
+          "links": [
+            {
+              "text": "EU AI Act",
+              "url": "https://chatgpt.com/?q=EU%20AI%20Act%20December%202023&hints=search&ref=ext"
+            },
+            {
+              "text": "Mistral funding",
+              "url": "https://chatgpt.com/?q=Mistral%20AI%20Series%20A&hints=search&ref=ext"
+            }
+          ]
+        },
+        {
+          "date": "Dec 2023",
           "title": "EU AI Act Agreement & Gemini",
           "details": [
             "EU reaches historic agreement on AI Act after marathon negotiations",
@@ -952,6 +970,25 @@
             {
               "text": "EU AI Act",
               "url": "https://chatgpt.com/?q=EU%20AI%20Act%20signed&hints=search&ref=ext"
+            }
+          ]
+        },
+        {
+          "date": "Jun 2024",
+          "title": "Mistral €600M & Claude 3.5",
+          "details": [
+            "Mistral AI raises €600M at €5.8B valuation",
+            "OpenAI deepens DALL·E 3 integration in ChatGPT",
+            "Anthropic releases Claude 3.5 Sonnet with Artifacts"
+          ],
+          "links": [
+            {
+              "text": "Mistral funding",
+              "url": "https://chatgpt.com/?q=Mistral%20AI%20June%202024&hints=search&ref=ext"
+            },
+            {
+              "text": "Claude 3.5 Sonnet",
+              "url": "https://chatgpt.com/?q=Claude%203.5%20Sonnet&hints=search&ref=ext"
             }
           ]
         },
@@ -1112,6 +1149,21 @@
             {
               "text": "Llama 3.3",
               "url": "https://chatgpt.com/?q=Llama%203.3%20multimodal&hints=search&ref=ext"
+            }
+          ]
+        },
+        {
+          "date": "Feb 2025",
+          "title": "France €109B AI Investment",
+          "details": [
+            "Macron announces €109 billion AI infrastructure investment",
+            "Mistral AI plans multi-billion euro French data center",
+            "Klarna AI replaces 700 employees, reports first profit in 4 years"
+          ],
+          "links": [
+            {
+              "text": "France AI investment",
+              "url": "https://chatgpt.com/?q=France%20109%20billion%20AI%202025&hints=search&ref=ext"
             }
           ]
         },
