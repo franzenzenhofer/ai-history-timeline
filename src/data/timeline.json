@@ -779,6 +779,30 @@
           ]
         },
         {
+          "date": "Nov 1-2, 2023",
+          "title": "UK AI Safety Summit",
+          "details": [
+            "First global AI Safety Summit held at Bletchley Park",
+            "28 countries sign Bletchley Declaration on AI safety",
+            "Major AI companies commit to safety testing"
+          ],
+          "links": [
+            {
+              "text": "Bletchley Declaration",
+              "url": "https://chatgpt.com/?q=Bletchley%20Declaration&hints=search&ref=ext"
+            }
+          ]
+        },
+        {
+          "date": "Nov 17, 2023",
+          "title": "OpenAI Leadership Crisis",
+          "details": [
+            "Sam Altman fired as CEO by OpenAI board",
+            "Employee revolt threatens mass exodus to Microsoft",
+            "Altman reinstated after 5 days with new board"
+          ]
+        },
+        {
           "links": [
             {
               "text": "U.S. Executive Order on Safe AI",
