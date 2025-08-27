@@ -1,0 +1,20 @@
+{
+  "name": "ai-history-timeline",
+  "version": "1.0.0",
+  "description": "Comprehensive timeline of AI development from 1950 to 2025",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "tsc && vite build",
+    "preview": "vite preview",
+    "deploy": "npm run build"
+  },
+  "keywords": ["ai", "timeline", "history", "machine-learning", "gpt", "claude"],
+  "author": "Franz Enzenhofer",
+  "license": "MIT",
+  "devDependencies": {
+    "@types/node": "^24.3.0",
+    "typescript": "^5.9.2",
+    "vite": "^7.1.3"
+  }
+}
