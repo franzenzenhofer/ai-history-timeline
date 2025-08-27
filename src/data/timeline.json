@@ -977,28 +977,35 @@
       "events": [
         {
           "date": "Jan 2025",
-          "title": "Gemini 2.0 GA & Stargate",
+          "title": "Multimodal Convergence & Reasoning",
+          "sectionTitle": "The Great Convergence",
           "details": [
-            "Google makes Gemini 2.0 Flash generally available (GA)",
-            "Stargate Project AI supercomputer initiative announced",
-            "AI assistants integrated deeper (e.g., Gemini on Android, Mercedes-Benz AI copilot)"
+            "OpenAI's o1 model gains enhanced reasoning and multimodal capabilities",
+            "Google releases Gemini 2.0 Flash with Thinking Mode for step-by-step reasoning",
+            "Claude 3.5, Llama 3.3, and Phi-4 all gain multimodal capabilities (text, audio, images)",
+            "Stargate Project AI supercomputer initiative announced ($500B investment)",
+            "All major models now support advanced multistep problem-solving"
           ],
           "links": [
             {
+              "text": "o1",
+              "url": "https://chatgpt.com/?q=OpenAI%20o1%20model&hints=search&ref=ext"
+            },
+            {
               "text": "Gemini 2.0 Flash",
-              "url": "https://chatgpt.com/?q=Gemini%202.0%20Flash&hints=search&ref=ext"
+              "url": "https://chatgpt.com/?q=Gemini%202.0%20Flash%20Thinking&hints=search&ref=ext"
+            },
+            {
+              "text": "Claude 3.5",
+              "url": "https://chatgpt.com/?q=Claude%203.5%20multimodal&hints=search&ref=ext"
             },
             {
               "text": "Stargate Project",
               "url": "https://chatgpt.com/?q=Stargate%20Project%20AI%20supercomputer&hints=search&ref=ext"
             },
             {
-              "text": "Gemini",
-              "url": "https://chatgpt.com/?q=Google%20Gemini&hints=search&ref=ext"
-            },
-            {
-              "text": "Mercedes-Benz",
-              "url": "https://chatgpt.com/?q=Mercedes-Benz%20AI%20copilot&hints=search&ref=ext"
+              "text": "Llama 3.3",
+              "url": "https://chatgpt.com/?q=Llama%203.3%20multimodal&hints=search&ref=ext"
             }
           ]
         },
@@ -1058,6 +1065,26 @@
             {
               "text": "Model Context Protocol",
               "url": "https://chatgpt.com/?q=Model%20Context%20Protocol&hints=search&ref=ext"
+            }
+          ]
+        },
+        {
+          "date": "May 2025",
+          "title": "Claude 4 Family & Federal AI",
+          "details": [
+            "Anthropic introduces Claude 4 family (Opus and Sonnet models)",
+            "Anthropic offers Claude to all three branches of US government for $1",
+            "Enhanced multimodal capabilities become standard across all platforms",
+            "AI reasoning capabilities reach new milestones in problem-solving"
+          ],
+          "links": [
+            {
+              "text": "Claude 4",
+              "url": "https://chatgpt.com/?q=Claude%204%20Opus%20Sonnet&hints=search&ref=ext"
+            },
+            {
+              "text": "Government AI",
+              "url": "https://chatgpt.com/?q=Anthropic%20Claude%20government%20federal&hints=search&ref=ext"
             }
           ]
         }
