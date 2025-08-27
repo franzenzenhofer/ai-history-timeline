@@ -187,6 +187,17 @@
       "period": "2000s",
       "events": [
         {
+          "date": "Nov 2010",
+          "title": "DeepMind Founded in London",
+          "description": "Demis Hassabis, Shane Legg and Mustafa Suleyman found DeepMind in London",
+          "links": [
+            {
+              "text": "DeepMind",
+              "url": "https://chatgpt.com/?q=DeepMind%20founding%202010&hints=search&ref=ext"
+            }
+          ]
+        },
+        {
           "date": "2002-2005",
           "title": "Robotics & Autonomy",
           "sectionTitle": "Robotics & Autonomy",
@@ -238,6 +249,17 @@
       "name": "Deep Learning Revolution",
       "period": "2012-2015",
       "events": [
+        {
+          "date": "Jan 2014",
+          "title": "Google Acquires DeepMind",
+          "description": "Google acquires London-based DeepMind for £400-500 million, largest EU acquisition",
+          "links": [
+            {
+              "text": "DeepMind acquisition",
+              "url": "https://chatgpt.com/?q=Google%20DeepMind%20acquisition%202014&hints=search&ref=ext"
+            }
+          ]
+        },
         {
           "date": "Sep 2012",
           "title": "AlexNet Wins ImageNet",
@@ -421,6 +443,28 @@
             {
               "text": "CLIP",
               "url": "https://chatgpt.com/?q=CLIP%20OpenAI&hints=search&ref=ext"
+            }
+          ]
+        },
+        {
+          "date": "May 25, 2018",
+          "title": "GDPR Takes Effect in EU",
+          "description": "EU General Data Protection Regulation becomes law, impacting AI data usage globally",
+          "links": [
+            {
+              "text": "GDPR",
+              "url": "https://chatgpt.com/?q=GDPR%20May%2025%202018&hints=search&ref=ext"
+            }
+          ]
+        },
+        {
+          "date": "Nov-Dec 2020",
+          "title": "AlphaFold 2 Solves Protein Folding",
+          "description": "DeepMind's AlphaFold 2 achieves 92.4 GDT at CASP14, solving 50-year biology challenge",
+          "links": [
+            {
+              "text": "AlphaFold 2",
+              "url": "https://chatgpt.com/?q=AlphaFold%202%20CASP14&hints=search&ref=ext"
             }
           ]
         },
@@ -705,6 +749,17 @@
             {
               "text": "ChatGPT Enterprise",
               "url": "https://chatgpt.com/?q=ChatGPT%20Enterprise&hints=search&ref=ext"
+            }
+          ]
+        },
+        {
+          "date": "Sep 2023",
+          "title": "Mistral AI Founded",
+          "description": "Arthur Mensch, Guillaume Lample and Timothée Lacroix found Mistral AI in Paris",
+          "links": [
+            {
+              "text": "Mistral AI",
+              "url": "https://chatgpt.com/?q=Mistral%20AI%20founding&hints=search&ref=ext"
             }
           ]
         },
