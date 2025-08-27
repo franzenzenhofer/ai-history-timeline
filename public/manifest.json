@@ -1,0 +1,21 @@
+{
+  "name": "AI History Timeline",
+  "short_name": "AI Timeline",
+  "description": "Comprehensive timeline of AI development from 1950 to present",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#f9fafb",
+  "theme_color": "#2563eb",
+  "orientation": "portrait-primary",
+  "icons": [
+    {
+      "src": "/favicon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ],
+  "categories": ["education", "reference", "technology"],
+  "lang": "en-US",
+  "dir": "ltr"
+}

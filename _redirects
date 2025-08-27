@@ -1,0 +1,10 @@
+# Redirect www to non-www
+https://www.aihistory.franzai.com/* https://aihistory.franzai.com/:splat 301!
+
+# Handle clean URLs
+/timeline /index.html 200
+/about /index.html 200
+
+# API endpoints for future updates
+/api/version /src/data/version.json 200
+/api/timeline /src/data/timeline.json 200
